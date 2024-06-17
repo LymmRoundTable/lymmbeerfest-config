@@ -1,44 +1,27 @@
 {
-  "version": 2,
+  "version": 3,
   "when": "Thursday 11th July 2024 Sponsors' Evening\nFriday 12th July 2024 6pm - 11pm\nSaturday 13th July 2024 Noon - 11pm",
   "howmuch": "£6 door entry (includes glass)\nTokens are £2 each\n1 token for a half pint of beer/cider\n2 tokens for a pint of beer/cider\n2 tokens for a single gin\n4 tokens for a double gin\nSoft Drinks are FREE",
-  "music": [],
-  "music-2023": [
+  "music": [
     {
-      "start": "2023-07-13T19:30:00Z",
-      "name": "The Brewery Tap Band"
+      "start": "2024-07-12T18:30:00Z",
+      "name": "Rain Dogs"
     },
     {
-      "start": "2023-07-14T17:30:00Z",
+      "start": "2024-07-12T21:00:00Z",
       "name": "Black Magic"
     },
     {
-      "start": "2023-07-14T20:00:00Z",
-      "name": "Under the Table"
+      "start": "2024-07-13T16:00:00Z",
+      "name": "Ideal Forgeries"
     },
     {
-      "start": "2023-07-15T11:30:00Z",
-      "name": "Arin Hewitt Symonds"
+      "start": "2024-07-13T18:30:00Z",
+      "name": "The Plymm Souls"
     },
     {
-      "start": "2023-07-15T13:00:00Z",
-      "name": "Jon Jones"
-    },
-    {
-      "start": "2023-07-15T14:30:00Z",
-      "name": "Dominic Paul"
-    },
-    {
-      "start": "2023-07-15T17:00:00Z",
-      "name": "String Theory"
-    },
-    {
-      "start": "2023-07-15T19:00:00Z",
-      "name": "After Hours Blues Band"
-    },
-    {
-      "start": "2023-07-15T21:00:00Z",
-      "name": "Al Cassin (DJ Set)"
+      "start": "2024-07-13T21:00:00Z",
+      "name": "Pink Pumps"
     }
   ],
   "food": "TBC",

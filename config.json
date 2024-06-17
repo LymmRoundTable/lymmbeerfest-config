@@ -1,8 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "when": "Thursday 11th July 2024 Sponsors' Evening\nFriday 12th July 2024 6pm - 11pm\nSaturday 13th July 2024 Noon - 11pm",
   "howmuch": "£6 door entry (includes glass)\nTokens are £2 each\n1 token for a half pint of beer/cider\n2 tokens for a pint of beer/cider\n2 tokens for a single gin\n4 tokens for a double gin\nSoft Drinks are FREE",
-  "music": [
+  "music": [],
+  "music-2023": [
     {
       "start": "2023-07-13T19:30:00Z",
       "name": "The Brewery Tap Band"
@@ -40,8 +41,26 @@
       "name": "Al Cassin (DJ Set)"
     }
   ],
-  "food": "Food from Naz's Spice Lounge and Lymm Roundtable BBQ will be available to purchase.",
+  "food": "TBC",
   "brews": [
+    {
+      "number": "0",
+      "name": "TBC",
+      "description": "TBC",
+      "brewery": "TBC",
+      "colour": "FFF7D8",
+      "abv": 0.0,
+      "sponsor": "TBC",
+      "type": "Pale",
+      "subType": "",
+      "glutenFree": false,
+      "veganFriendly": false,
+      "sponsorUrl": null,
+      "sponsorImageUrl": null,
+      "sponsorImageIsWhite": true
+    }
+  ],
+  "brews-2023": [
     {
       "number": "0",
       "name": "Wheels Up!",
@@ -654,6 +673,17 @@
   ],
   "gins": [
     {
+      "type": "TBC",
+      "distiller": "TBC",
+      "name": "TBC",
+      "description": "TBC",
+      "abv": 0,
+      "sponsor": null,
+      "sponsorUrl": null
+    }
+  ],
+  "gins-2023": [
+    {
       "type": "Fruity Gins",
       "distiller": "Bloom",
       "name": "Passionfruit & Vanilla",
@@ -921,9 +951,10 @@
       "url": ""
     },
     "gin": {
-      "name": "Lymm & Tonic",
-      "imageUrl": "https://www.lymmbeerfest.co.uk/app/LymmGinLogo.jpg",
-      "url": "http://lymmandtonic.com"
+      "name": "Airspace Aviation Solutions",
+      "imageUrl": "https://www.lymmbeerfest.co.uk/app/airspace-aviation-solutions.png",
+      "url": "https://airspaceas.com/"
     }
-  }
+  },
+  "about": "The Lymm Beer Festival was the brainchild of the Lymm and District Round Table member Chris Stephens. Started in 2011, the Lymm Beer Fest has quickly established itself as a firm favourite with local people and has become one of the three main annual charity events organised by Lymm and District Round Table in order to raise money for local charities and community groups. The other events are the Lymm Charity Duck Race and the Big Lymm Fireworks.\n\nThe event will take place in the Lymm Village Hall and will offer over 35 carefully selected real ales, ciders and perries. Lymm Ladies will also be serving a fantastic selection of gins. There will be live music involving a host of talented local bands and singers, and a selection of food to purchase, with all profits going to charity. For those abstaining or driving we will also be offering free soft drinks."
 }

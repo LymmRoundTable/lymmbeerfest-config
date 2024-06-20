@@ -661,8 +661,9 @@
       "name": "TBC",
       "description": "TBC",
       "abv": 0,
-      "sponsor": null,
-      "sponsorUrl": null
+      "sponsor": "TBC",
+      "sponsorUrl": null,
+      "sponsorImageUrl": null
     }
   ],
   "gins-2023": [

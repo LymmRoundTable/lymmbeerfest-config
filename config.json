@@ -663,7 +663,8 @@
       "abv": 0,
       "sponsor": "TBC",
       "sponsorUrl": null,
-      "sponsorImageUrl": null
+      "sponsorImageUrl": null,
+      "colour": "#ff0000"
     }
   ],
   "gins-2023": [

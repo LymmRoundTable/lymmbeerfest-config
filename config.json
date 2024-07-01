@@ -1368,7 +1368,7 @@
       "description": "Heavily awarded, Hepple is the ultimate modern gin, an intense yet elegant reinvention of a classic gin, elevated through our use of botanicals picked fresh from our home in Northumberland and next-generation distilling techniques",
       "abv": 45.0,
       "sponsor": "TLN Consulting",
-      "sponsorUrl": null,
+      "sponsorUrl": "https://www.tlnconsulting.co.uk",
       "colour": "#ff0000"
     },
     {
@@ -1554,7 +1554,7 @@
       "name": "The Edge Gin - Fruits of the Forest",
       "description": "A burst of sweetness from the raspberries , blueberries, straw­berries and blackberries. Crisp juniper shines through with warming notes of cinnamon and star anise.",
       "abv": 40.0,
-      "sponsor": "Deam Doors",
+      "sponsor": "Dream Doors",
       "sponsorUrl": "https://www.dreamdoors.co.uk/",
       "colour": "#ff0000"
     },
@@ -1565,8 +1565,8 @@
       "name": "The Edge Gin L'orange",
       "description": "This premium small batch L'Orange gin has been lovingly created by mixing our London Dry with a generous addition of orange zest. The addition of the orange zest has given our gin a lovely natural citrus finish and not too sweet.",
       "abv": 40.0,
-      "sponsor": null,
-      "sponsorUrl": null,
+      "sponsor": "Dunham Cider",
+      "sponsorUrl": "https://www.dunhamcider.co.uk",
       "colour": "#ff0000"
     },
     {
@@ -1598,8 +1598,8 @@
       "name": "Whitley Neill rhubarb and ginger alcohol free",
       "description": "Whitley Neill Rhubarb & Ginger 0.0% Alcohol free spirit - made from our award-winning Rhubarb Gin. Full flavour. Zero compromises.",
       "abv": 0.0,
-      "sponsor": null,
-      "sponsorUrl": null,
+      "sponsor": "The Church Green",
+      "sponsorUrl": "http://thechurchgreen.co.uk",
       "colour": "#ff0000"
     },
     {
@@ -1620,8 +1620,8 @@
       "name": "GinSin Tangerine alcohol free",
       "description": "Alcohol free gin – flavours of tangerine and citrus. In this alcohol-free gin twelve botanical elements and citrus are combined with the flavour of tangerines.",
       "abv": 0.0,
-      "sponsor": null,
-      "sponsorUrl": null,
+      "sponsor": "G and G Builders (Partnership)",
+      "sponsorUrl": "https://www.cheshire-builder.co.uk",
       "colour": "#ff0000"
     }
   ],

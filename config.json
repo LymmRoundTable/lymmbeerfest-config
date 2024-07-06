@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "when": "Thursday 11th July 2024 Sponsors' Evening\nFriday 12th July 2024 6pm - 11pm\nSaturday 13th July 2024 Noon - 11pm",
   "howmuch": "£6 door entry (includes glass)\nTokens are £2 each\n1 token for a half pint of beer/cider\n2 tokens for a pint of beer/cider\n2 tokens for a single gin\n4 tokens for a double gin\nSoft Drinks are FREE",
   "music": [
@@ -12,6 +12,10 @@
       "name": "Black Magic"
     },
     {
+      "start": "2024-07-13T14:00:00Z",
+      "name": "Jess Lees"
+    },
+    {
       "start": "2024-07-13T15:00:00Z",
       "name": "Ideal Forgeries"
     },
@@ -22,6 +26,10 @@
     {
       "start": "2024-07-13T20:00:00Z",
       "name": "Pink Pumps"
+    },
+    {
+      "start": "2024-07-13T22:00:00Z",
+      "name": "Champagne Soul Train"
     }
   ],
   "food": "Food will be available to purchase from Chia Tapas Bar",

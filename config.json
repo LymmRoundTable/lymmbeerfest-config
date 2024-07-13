@@ -771,7 +771,7 @@
     "description": "**WINNER OF BEST ENGLISH CLASSIC GIN AT THE WORLD GIN AWARDS 2023**Falmouth Black Rock Cornish Gin is an exciting Cornish Gin, with a design to match our stunning landscape and based around the fantastic history of the harbour of Falmouth this gin has it all.Crisp and juniper forward with lemon verbena and lemon peel for a citrus edge, elderberries for a smooth earthiness and eucalyptus this gin is delicious served with Navas tonic and a generous wedge of lemon.",
     "abv": 40.0,
     "sponsor": "Handy Em",
-    "sponsorUrl": "HandyEm - Lymm",
+    "sponsorUrl": null,
     "colour": "#ff0000"
   },
   {
@@ -1020,7 +1020,7 @@
     "gin": {
       "name": "",
       "imageUrl": "",
-      "url": ""
+      "url": nil
     }
   },
   "about": "The Lymm Beer Festival was the brainchild of the Lymm and District Round Table member Chris Stephens. Started in 2011, the Lymm Beer Fest has quickly established itself as a firm favourite with local people and has become one of the three main annual charity events organised by Lymm and District Round Table in order to raise money for local charities and community groups. The other events are the Lymm Charity Duck Race and the Big Lymm Fireworks.\n\nThe event will take place in the Lymm Village Hall and will offer over 35 carefully selected real ales, ciders and perries. Lymm Ladies will also be serving a fantastic selection of gins. There will be live music involving a host of talented local bands and singers, and a selection of food to purchase, with all profits going to charity. For those abstaining or driving we will also be offering free soft drinks."

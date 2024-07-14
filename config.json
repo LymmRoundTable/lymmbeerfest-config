@@ -4,6 +4,7 @@
   "howmuch": "£6 door entry (includes glass)\nTokens are £2 each\n1 token for a half pint of beer/cider\n2 tokens for a pint of beer/cider\n2 tokens for a single gin\n4 tokens for a double gin\nSoft Drinks are FREE",
   "location": {
     "address": "Lymm Village Hall, Pepper Street, Lymm, WA13 0JB",
+    "mapPinTitle": "Lymm Village Hall",
     "lat": 53.3811129,
     "lng": -2.476388,
     "image": "https://www.lymmbeerfest.co.uk/app/osm_lymm_village_hall_map.png"

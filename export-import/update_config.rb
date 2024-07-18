@@ -5,8 +5,6 @@ require 'json'
 
 beers = JSON.parse(STDIN.read)
 
-git pull
-
 # Modify the existing config
 open('../config.json') do |original_file|
   original_json = JSON.parse(original_file.read)

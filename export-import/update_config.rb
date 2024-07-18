@@ -6,8 +6,10 @@ require 'json'
 beers = JSON.parse(STDIN.read)
 
 # Modify the existing config
-original_json = JSON.parse(File.read('../config.json'))
+file_contents = File.read('../config.json')
+
+original_json = JSON.parse(file_contents)
 original_json[:brews] = beers
 updated_json = JSON.pretty_generate(original_json)
 
-puts update_json
+puts updated_json

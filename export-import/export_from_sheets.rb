@@ -108,5 +108,4 @@ end
 rows_as_hashes = rows_as_hashes.reject { |row| row['number'].nil? || row['number'].empty? }
 
 # Convert the array of hashes to JSON
-json_output = JSON.pretty_generate(rows_as_hashes)
-puts json_output
+puts JSON.pretty_generate(rows_as_hashes)

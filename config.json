@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "when": "Thursday 11th July 2024 Sponsors' Evening\nFriday 12th July 2024 6pm - 11pm\nSaturday 13th July 2024 Noon - 11pm",
+  "version": 14,
+  "when": "Thursday 10th July 2025 Sponsors' Evening\nFriday 11th July 2025 6pm - 11pm\nSaturday 12th July 2025 Noon - 11pm",
   "howmuch": "£6 door entry (includes glass)\nTokens are £2 each\n1 token for a half pint of beer/cider\n2 tokens for a pint of beer/cider\n2 tokens for a single gin\n4 tokens for a double gin\nSoft Drinks are FREE",
   "location": {
     "address": "Lymm Village Hall, Pepper Street, Lymm, WA13 0JB",
@@ -12,15 +12,15 @@
   "music": [
     {
       "start": "2024-07-12T17:30:00Z",
-      "name": "Rain Dogs"
+      "name": "String Theory TBC"
     },
     {
       "start": "2024-07-12T20:00:00Z",
-      "name": "Black Magic"
+      "name": "Under The Table"
     },
     {
       "start": "2024-07-13T14:00:00Z",
-      "name": "Jess Lees"
+      "name": "Ric Seal"
     },
     {
       "start": "2024-07-13T15:00:00Z",
@@ -28,18 +28,14 @@
     },
     {
       "start": "2024-07-13T17:30:00Z",
-      "name": "The Plymm Souls"
+      "name": "Pinnk Pumps"
     },
     {
       "start": "2024-07-13T20:00:00Z",
-      "name": "Pink Pumps"
-    },
-    {
-      "start": "2024-07-13T22:00:00Z",
-      "name": "Champagne Soul Train"
+      "name": "DJ Sue Vinyl Set"
     }
   ],
-  "food": "Food will be available to purchase from Chia Tapas Bar",
+  "food": "Food will be available to purchase",
   "brews": [
     {
       "number": "1",
@@ -889,9 +885,9 @@
   ],
   "sponsors": {
     "main": {
-      "name": "Airspace Aviation Solutions",
-      "imageUrl": "https://www.lymmbeerfest.co.uk/app/airspace-aviation-solutions.png",
-      "url": "https://airspaceas.com/"
+      "name": "TBC",
+      "imageUrl": "",
+      "url": ""
     },
     "food": {
       "name": "",

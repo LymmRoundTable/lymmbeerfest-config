@@ -5,4 +5,4 @@
 
 You'll be prompted for Google OAuth. As this is a private solution you'll need to havee your Google Account added to the list of authorised OAuth.
 
-This will only update the beers in the config.json. Anything else needs to be done by hand.
+This will only update the beers in the config.json. Anything else (gins, bands, times, prices, etc) needs to be done by hand and bump the version number before committing.

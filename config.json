@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "when": "Thursday 10th July 2025 Sponsors' Evening\nFriday 11th July 2025 6pm - 11pm\nSaturday 12th July 2025 Noon - 11pm",
   "howmuch": "£6 door entry (includes glass)\nTokens are £2 each\n1 token for a half pint of beer/cider\n2 tokens for a pint of beer/cider\n2 tokens for a single gin\n4 tokens for a double gin\nSoft Drinks are FREE",
   "location": {
@@ -526,7 +526,7 @@
       "colour": "FF9C75",
       "glutenFree": false,
       "veganFriendly": false,
-      "description": "Strawberry, Chocolate & Vanilla Ice Cream SourOur favourite flavours of ice cream are the inspiration for our latest dessert sours, back again in a series of single, double, and triple scoops\u2026 Sweet strawberries, rich chocolate, and smooth vanilla combine into a single (but generous) scoop of soft ice cream for a vibrant, fruity flavour and a smooth, luscious mouthfeel.",
+      "description": "Strawberry, Chocolate & Vanilla Ice Cream Sour. Our favourite flavours of ice cream are the inspiration for our latest dessert sours, back again in a series of single, double, and triple scoops\u2026 Sweet strawberries, rich chocolate, and smooth vanilla combine into a single (but generous) scoop of soft ice cream for a vibrant, fruity flavour and a smooth, luscious mouthfeel.",
       "abv": 4.1,
       "sponsor": "Cintra",
       "sponsorUrl": "https://cintra.co.uk/"
@@ -564,7 +564,7 @@
       "brewery": "Dunham Apples",
       "name": "Dabbler",
       "type": "Cider",
-      "subtype": "Traditional ",
+      "subtype": "Traditional",
       "colour": "C0FFC0",
       "glutenFree": false,
       "veganFriendly": false,
@@ -637,7 +637,7 @@
       "type": "classic",
       "distiller": "Crafty Distillery",
       "name": "Hills & Harbour",
-      "description": "\nWith local Noble Fir needles and Bladderwrack Seaweed, it leads with juniper and is balanced with hints of forest fir, tropical fruit, citrus spice, tangy sherbet and a subtle scent of the shore. \n",
+      "description": "With local Noble Fir needles and Bladderwrack Seaweed, it leads with juniper and is balanced with hints of forest fir, tropical fruit, citrus spice, tangy sherbet and a subtle scent of the shore. \n",
       "abv": 40.0,
       "sponsor": "Avanti Coffee Company",
       "sponsorUrl": "https://theavanticoffeecompany.com/",
@@ -722,7 +722,7 @@
     },
     {
       "number": "9",
-      "type": "Compound",
+      "type": "compound",
       "distiller": "Bathtub Gin",
       "name": "Bathtub Gin",
       "description": "** WINNER OF THE BEST ENGLISH COMPOUND GIN AT THE WORLD GIN AWARDS 2024** An extraordinary 34 times award-winning gin, made using the traditional method of Cold Compounding (or in layman\u2019s terms \u2013 infusing). Very high quality copper pot-still spirit is infused with ingredients including juniper, orange peel, coriander, cassia, cloves and cardamom, with the length of the compounding period controlled entirely by periodic sampling.\nThe result is an extraordinary gin, lightly tinted by the botanicals, and with a flavour which is both bold, and perfumed all at once. Sure to be a hit with amateur and professional mixologists alike.",

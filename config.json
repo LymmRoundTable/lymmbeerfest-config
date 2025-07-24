@@ -67,7 +67,8 @@
       "description": "This is a pilsner/pale ale hybrid is a refreshingly light & crisp beer.",
       "abv": 5.5,
       "sponsor": "cb3 Design",
-      "sponsorUrl": "https://www.cb3design.co.uk/"
+      "sponsorUrl": "https://www.cb3design.co.uk/",
+      "untappdUrl": "https://untappd.com/b/stubborn-mule-brewery-cream-ale/3343625"
     },
     {
       "number": "3",
@@ -81,7 +82,8 @@
       "description": "Our love for beers born on the Pacific runs deep. Channeling those classic roots with vibrant citrus & pine notes from Citra, Simcoe, Centennial & Cascade. Crisp & refreshingly bitter.",
       "abv": 4.8,
       "sponsor": "True North Rail",
-      "sponsorUrl": "https://www.truenorthrail.com/"
+      "sponsorUrl": "https://www.truenorthrail.com/",
+      "untappdUrl": "https://untappd.com/b/weekend-project-afternoon-in-chico/6097317"
     },
     {
       "number": "4",

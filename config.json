@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "when": "Thursday 9th July 2026 Sponsors' Evening\nFriday 10th July 2026 6pm - 11pm\nSaturday 11th July 2026 Noon - 11pm",
   "howmuch": "£30 – souvenir glass + entry + 8 tokens\n£15 – souvenir glass + entry + 2 tokens\n£10 – souvenir glass + entry (no tokens)\nSoft Drinks are FREE",
   "howmuch-2025": "£6 door entry (includes glass)\nTokens are £2 each\n1 token for a half pint of beer/cider\n2 tokens for a pint of beer/cider\n2 tokens for a single gin\n4 tokens for a double gin\nSoft Drinks are free",
@@ -685,21 +685,9 @@
   ],
   "gins": [],
   "sponsors": {
-    "main": {
-      "name": "",
-      "imageUrl": "",
-      "url": ""
-    },
-    "food": {
-      "name": "",
-      "imageUrl": "",
-      "url": ""
-    },
-    "gin": {
-      "name": "",
-      "imageUrl": "",
-      "url": ""
-    }
+    "main": null,
+    "food": null,
+    "gin": null
   },
   "about": "The Lymm Beer Festival was the brainchild of the Lymm and District Round Table member Chris Stephens. Started in 2011, the Lymm Beer Fest has quickly established itself as a firm favourite with local people and has become one of the three main annual charity events organised by Lymm and District Round Table in order to raise money for local charities and community groups. The other events are the Lymm Charity Duck Race and the Big Lymm Fireworks.\n\nThe event will offer many carefully selected real ales, ciders and perries. Lymm Ladies will also be serving a fantastic selection of gins. There will be live music involving a host of talented local bands and singers, and a selection of food to purchase, with all profits going to charity. For those abstaining or driving we will also be offering free soft drinks."
 }

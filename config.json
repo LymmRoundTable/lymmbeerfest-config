@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "when": "Thursday 9th July 2026 Sponsors' Evening\nFriday 10th July 2026 6pm - 11pm\nSaturday 11th July 2026 Noon - 11pm",
   "howmuch": "£30 – souvenir glass + entry + 8 tokens\n£15 – souvenir glass + entry + 2 tokens\n£10 – souvenir glass + entry (no tokens)\nSoft Drinks are FREE",
   "howmuch-2025": "£6 door entry (includes glass)\nTokens are £2 each\n1 token for a half pint of beer/cider\n2 tokens for a pint of beer/cider\n2 tokens for a single gin\n4 tokens for a double gin\nSoft Drinks are free",
@@ -10,7 +10,52 @@
     "lng": -2.4774865,
     "image": "https://www.lymmbeerfest.co.uk/app/osm_lymmrugbyclub_map.png"
   },
-  "music": [],
+  "music": [
+    {
+      "start": "2026-07-10T17:15:00Z",
+      "name": "Full Circle"
+    },
+    {
+      "start": "2026-07-10T18:15:00Z",
+      "name": "Ideal Forgery"
+    },
+    {
+      "start": "2026-07-10T20:15:00Z",
+      "name": "Northern Echoes"
+    },
+    {
+      "start": "2026-07-10T22:00:00Z",
+      "name": "DJ Alan Cassin"
+    },
+    {
+      "start": "2026-07-11T11:00:00Z",
+      "name": "DJ Sue"
+    },
+    {
+      "start": "2026-07-11T13:15:00Z",
+      "name": "Paige"
+    },
+    {
+      "start": "2026-07-11T14:30:00Z",
+      "name": "Samshi"
+    },
+    {
+      "start": "2026-07-11T16:45:00Z",
+      "name": "Recut"
+    },
+    {
+      "start": "2026-07-11T19:00:00Z",
+      "name": "Uptown Monotones"
+    },
+    {
+      "start": "2026-07-11T20:30:00Z",
+      "name": "DJ Jingo Jango"
+    },
+    {
+      "start": "2026-07-11T21:00:00Z",
+      "name": "England vs Norway"
+    }
+  ],
   "food": "Food will be available to purchase",
   "brews": [
     {
@@ -686,8 +731,8 @@
   "gins": [],
   "sponsors": {
     "main": {
-      "name": "",
-      "imageUrl": "",
+      "name": "Beechwood Industries, Primrose Hill Nurseries and Tipis at primrose Hill Nurseries",
+      "imageUrl": "https://www.lymmbeerfest.co.uk/app/beechwood-family-sponsors.png",
       "url": ""
     },
     "food": {

@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "when": "Thursday 9th July 2026 Sponsors' Evening\nFriday 10th July 2026 6pm - 11pm\nSaturday 11th July 2026 Noon - 11pm\n\nNEW VENUE 2026: Marquee @ Lymm Rugby Club, Crouchley Lane, Lymm, WA13 0AT",
   "howmuch": "£30 – souvenir glass + entry + 8 tokens\n£15 – souvenir glass + entry + 2 tokens\n£10 – souvenir glass + entry (no tokens)\nSoft Drinks are FREE",
   "howmuch-2025": "£6 door entry (includes glass)\nTokens are £2 each\n1 token for a half pint of beer/cider\n2 tokens for a pint of beer/cider\n2 tokens for a single gin\n4 tokens for a double gin\nSoft Drinks are free",
@@ -1066,8 +1066,8 @@
       "name": "Rhubarb and Ginger liqueur",
       "description": "Inspired by the warming, homely flavours of rhubarb and ginger crumble, a classic taste that brings back fond memories of Sunday dinners and family gatherings.",
       "abv": 20.0,
-      "sponsor": "Dan Massey Physio",
-      "sponsorUrl": "https://www.danmasseyphysio.co.uk",
+      "sponsor": "Stockton Heath Physio",
+      "sponsorUrl": "https://stocktonheathphysio.co.uk",
       "colour": "#ff0000"
     },
     {
@@ -1098,7 +1098,7 @@
       "distiller": "Stubborn Mule, Cheshire",
       "name": "Lychee",
       "description": "This exotic gin pairs crisp juniper with the sweet, tropical essence of fresh lychee. Delicately floral and intensely aromatic, it delivers a refreshing citrus undertone and a smooth, juicy finish.",
-      "abv": 40.5,
+      "abv": 42,
       "sponsor": "Lymm Shutters and Blinds",
       "sponsorUrl": "https://www.lymmshuttersandblinds.co.uk",
       "colour": "#ff0000"
@@ -1120,7 +1120,7 @@
       "distiller": "Stubborn Mule, Cheshire",
       "name": "Elderflower",
       "description": "Crisp juniper meets the delicate, floral sweetness of handpicked elderflower in this elegant gin. Bright citrus undertones and a hint of warming spice deliver a smooth, refreshingly light finish.",
-      "abv": 42.5,
+      "abv": 43,
       "sponsor": "Westwood Recruitment",
       "sponsorUrl": "https://www.westwood-recruitment.com/",
       "colour": "#ff0000"
